@@ -1,0 +1,11 @@
+diff a/Merge.txt b/Merge.txt	(rejected hunks)
+@@ -1,3 +1,7 @@
+ Ankush
+ MANDIR WAHI BANEGA
+-order passed by bjp....
+\ No newline at end of file
++<<<<<<< HEAD
++order passed by bjp....
++=======
++order pa
++>>>>>>> Ankush
