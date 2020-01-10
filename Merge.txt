@@ -1,7 +1,4 @@
 Ankush
 MANDIR WAHI BANEGA
-<<<<<<< HEAD
 order passed by bjp....
-=======
-order pa
->>>>>>> Ankush
+
